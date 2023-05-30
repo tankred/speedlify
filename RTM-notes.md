@@ -1,21 +1,18 @@
 # RTM notes
 
 Heroku vs Openshift (Red hat) 
->> Make this a project ? YES plz
 Compare netlify to X Y Z
-netlify vs heroku vs vercel
-https://startuptalky.com/netlify-vs-heroku/
+[netlify vs heroku](https://startuptalky.com/netlify-vs-heroku/) vs vercel
 heroku wins
-netlify = static web hosting
-https://app.netlify.com/signup
+[netlify](https://app.netlify.com/signup) = static web hosting
+
 
 10 . speedlify STAGING
 15 . clone repo to local machine
  20. Run locally /linter/speedlify
  30. Deploy to: staging >> https://staging.vives.be/speedlify/sample/ NOK
 >> 40. Deploy to Netlify 
- 500. The Ultimate Guide to Web Performance:
- 501 . https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4
+ 500. [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 
 [run lighthouse 7 ♦](https://github.com/GoogleChrome/lighthouse)
 TARGET : 
