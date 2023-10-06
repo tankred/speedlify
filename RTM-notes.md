@@ -9,10 +9,10 @@ heroku wins
 
 10 . speedlify STAGING
 15 . clone repo to local machine
- 20. Run locally /linter/speedlify
- 30. Deploy to: staging >> https://staging.vives.be/speedlify/sample/ NOK
+20. Run locally /linter/speedlify
+30. Deploy to: staging >> https://staging.vives.be/speedlify/sample/ NOK
 >> 40. Deploy to Netlify 
- 500. [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
+50. [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 
 [run lighthouse 7 ♦](https://github.com/GoogleChrome/lighthouse)
 TARGET : 
