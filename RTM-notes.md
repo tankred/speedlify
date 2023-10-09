@@ -59,13 +59,13 @@ Dec 13, 2017 	WEBSHOP-loadtime-MORE-than-3-s
 Oct 17, 2017    EVK-loadtime-MORE-than-3-s
 Nov 6, 2017     EVK-loadtime-MORE-than-3-s
 
-## DONE
+## Lighthouse 
 
- Id CommandLine
-  -- -----------
-   1 cd \tmp
-   2 lighthouse https://web.vives.be/stuvodossiers/ --port 57163
-   3 ls *light*
-   5 lighthouse https://web.vives.be/stuvodossiers/Student/Zoek?search=xcl --port 57163 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling
-   6 ./web.vives.be_2017-08-28_13-44-40.report.html
-   7 vi config.json
+   ```
+   lighthouse https://web.vives.be/stuvodossiers/ --port 57163
+   ```
+
+   ```
+   lighthouse https://web.vives.be/stuvodossiers/Student/Zoek?search=xcl --port 57163 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling
+   ```
+
