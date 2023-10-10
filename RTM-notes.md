@@ -7,7 +7,7 @@ heroku wins
 [netlify](https://app.netlify.com/signup) = static web hosting
 
 
-10 . speedlify STAGING
+10 . [speedlify](https://github.com/zachleat/speedlify) (site performance benchmarking tool)
 15 . clone repo to local machine
 20. Run locally /linter/speedlify
 30. Deploy to: staging >> https://staging.vives.be/speedlify/sample/ NOK
