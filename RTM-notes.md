@@ -8,14 +8,18 @@ heroku wins
 
 
 10 . [speedlify](https://github.com/zachleat/speedlify) (site performance benchmarking tool)
-15 . clone repo to local machine
-20. Run locally /linter/speedlify
-30. Deploy to: staging >> https://staging.vives.be/speedlify/sample/ NOK
->> 40. Deploy to Netlify 
+15 . clone repo to local machine - DONE
+20. Run locally /linter/speedlify - ? 
+30. Deploy to: staging >> https://staging.vives.be/speedlify/sample/ - NOK
+>> 40. Deploy to Netlify  - NOT DOING
 50. [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 
+## Lighthouse 
+
 [run lighthouse 7 ♦](https://github.com/GoogleChrome/lighthouse)
-TARGET : 
+
+### TARGET  
+
 * VerlofApp
 * stem4math.eu
 * webshop
