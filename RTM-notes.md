@@ -1,12 +1,5 @@
 # RTM notes
 
-Heroku vs Openshift (Red hat) 
-Compare netlify to X Y Z
-[netlify vs heroku](https://startuptalky.com/netlify-vs-heroku/) vs vercel
-heroku wins
-[netlify](https://app.netlify.com/signup) = static web hosting
-
-
 10 . [speedlify](https://github.com/zachleat/speedlify) (site performance benchmarking tool)
 15 . clone repo to local machine - DONE
 20. Run locally /linter/speedlify - ? 
@@ -72,4 +65,12 @@ Nov 6, 2017     EVK-loadtime-MORE-than-3-s
    ```
    lighthouse https://web.vives.be/stuvodossiers/Student/Zoek?search=xcl --port 57163 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling
    ```
+
+## Hat tip
+
+* Heroku vs Openshift (Red hat) 
+* Compare netlify to X Y Z
+* [netlify vs heroku](https://startuptalky.com/netlify-vs-heroku/) vs vercel
+* heroku wins
+* [netlify (static web hosting)](https://app.netlify.com/signup) 
 
