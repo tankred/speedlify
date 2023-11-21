@@ -4,7 +4,6 @@
 15 . clone repo to local machine - DONE
 20. Run locally /linter/speedlify - ? 
 30. Deploy to: staging >> https://staging.vives.be/speedlify/sample/ - NOK
->> 40. Deploy to Netlify  - NOT DOING
 50. [The Ultimate Guide to Web Performance](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 
 ## Lighthouse 
@@ -19,7 +18,6 @@
 
 collect data on Responsive Performance: do not test your responsive designs only in the comfort of your own office, on your high-speed connection.
 
-+ create cheat sheet 
 ++ for easy copy: cat readme.md
 ? how to login, and avoid page redirection ! 
 + run perf. only:
@@ -58,13 +56,13 @@ Nov 6, 2017     EVK-loadtime-MORE-than-3-s
 
 ## Lighthouse 
 
-   ```
+```
    lighthouse https://web.vives.be/stuvodossiers/ --port 57163
-   ```
+```
 
-   ```
+```
    lighthouse https://web.vives.be/stuvodossiers/Student/Zoek?search=xcl --port 57163 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling
-   ```
+```
 
 ## Hat tip
 
