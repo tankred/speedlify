@@ -35,24 +35,6 @@ PS C:\tmp\log> lighthouse https://web.vives.be/stuvodossiers/PsychoSociaal/Overz
 
 20180222; npm i -g lighthouse # update to 2.9.1
 
-## DATA
-
-20171103; http://navorming.vives.education/; Perceptual Speed Index: 6,756
-
-* DATE;   <project>; (ggl alert) 
-Oct 23, 2017 	WEBSHOP-loadtime-MORE-than-3-s
-Oct 22, 2017    WEBSHOP-loadtime-MORE-than-3-s
-Oct 13, 2017    WEBSHOP-loadtime-MORE-than-3-s
-Oct 5, 2017     WEBSHOP-loadtime-MORE-than-3-s
-Sep 29, 2017    WEBSHOP-loadtime-MORE-than-3-s
-Nov 10, 2017    WEBSHOP-loadtime-MORE-than-3-s 
-Nov 24, 2017 	WEBSHOP-loadtime-MORE-than-3-s 
-Nov 27, 2017 	WEBSHOP-loadtime-MORE-than-3-s 
-Dec 4, 2017 	WEBSHOP-loadtime-MORE-than-3-s 
-Dec 5, 2017 	WEBSHOP-loadtime-MORE-than-3-s 
-Dec 13, 2017 	WEBSHOP-loadtime-MORE-than-3-s 
-Oct 17, 2017    EVK-loadtime-MORE-than-3-s
-Nov 6, 2017     EVK-loadtime-MORE-than-3-s
 
 ## Lighthouse 
 
