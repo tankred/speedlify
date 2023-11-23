@@ -10,6 +10,22 @@
 
 [run lighthouse 7 ♦](https://github.com/GoogleChrome/lighthouse)
 
+```
+   lighthouse https://web.vives.be/stuvodossiers/ --port 57163
+```
+
+```
+   lighthouse https://web.vives.be/stuvodossiers/Student/Zoek?search=xcl --port 57163 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling
+```
+```
+lighthouse --help
+```
+
+chrome-debug
+PS C:\tmp\log> lighthouse https://web.vives.be/stuvodossiers/PsychoSociaal/Overzicht?studentId=3139 --port 60452 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling --perf 1 --output-path=web.vives.be_psy_overzicht3139_20170829.html
+
+[webshop login](https://web.vives.be/webshop/Account/Login?ReturnUrl=%2Fwebshop%2F)
+
 ### TARGET  
 
 * VerlofApp
@@ -25,26 +41,11 @@ collect data on Responsive Performance: do not test your responsive designs only
 
 ## MAN
 
-lighthouse --help
-chrome-debug
-PS C:\tmp\log> lighthouse https://web.vives.be/stuvodossiers/PsychoSociaal/Overzicht?studentId=3139 --port 60452 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling --perf 1 --output-path=web.vives.be_psy_overzicht3139_20170829.html
-
-[webshop login](https://web.vives.be/webshop/Account/Login?ReturnUrl=%2Fwebshop%2F)
 
 ## LOG 
 
 20180222; npm i -g lighthouse # update to 2.9.1
 
-
-## Lighthouse 
-
-```
-   lighthouse https://web.vives.be/stuvodossiers/ --port 57163
-```
-
-```
-   lighthouse https://web.vives.be/stuvodossiers/Student/Zoek?search=xcl --port 57163 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling
-```
 
 ## Hat tip
 
