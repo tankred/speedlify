@@ -10,6 +10,12 @@
 
 [run lighthouse 7 ♦](https://github.com/GoogleChrome/lighthouse)
 
+
+Update lighthouse
+```
+npm i -g lighthouse
+```
+
 ```
    lighthouse https://web.vives.be/stuvodossiers/ --port 57163
 ```
@@ -44,7 +50,6 @@ collect data on Responsive Performance: do not test your responsive designs only
 
 ## LOG 
 
-20180222; npm i -g lighthouse # update to 2.9.1
 
 
 ## Hat tip
