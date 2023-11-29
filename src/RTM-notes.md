@@ -45,13 +45,6 @@ collect data on Responsive Performance: do not test your responsive designs only
 + run perf. only:
 --perf 1  #   Use a performance-test-only configuration    [boolean]
 
-## MAN
-
-
-## LOG 
-
-
-
 ## Hat tip
 
 * Heroku vs Openshift (Red hat) 

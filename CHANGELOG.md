@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2023-11-29
+### Changed
+- RTM notes
+
 ## [1.0.9] - 2023-11-24
 ### Changed
 - RTM notes, lighthouse samples
