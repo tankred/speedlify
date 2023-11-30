@@ -1,4 +1,4 @@
-# RTM notes
+# Notes
 
 10 . [speedlify](https://github.com/zachleat/speedlify) (site performance benchmarking tool)
 15 . clone repo to local machine - DONE
@@ -9,7 +9,6 @@
 ## Lighthouse 
 
 [run lighthouse 7 ♦](https://github.com/GoogleChrome/lighthouse)
-
 
 Update lighthouse
 ```
@@ -27,23 +26,22 @@ npm i -g lighthouse
 lighthouse --help
 ```
 
-chrome-debug
-PS C:\tmp\log> lighthouse https://web.vives.be/stuvodossiers/PsychoSociaal/Overzicht?studentId=3139 --port 60452 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling --perf 1 --output-path=web.vives.be_psy_overzicht3139_20170829.html
+? chrome-debug
 
-[webshop login](https://web.vives.be/webshop/Account/Login?ReturnUrl=%2Fwebshop%2F)
+--perf 1  #   Use a performance-test-only configuration    [boolean]
+
+```
+PS C:\tmp\log> lighthouse https://web.vives.be/stuvodossiers/PsychoSociaal/Overzicht?studentId=3139 --port 60452 --disable-device-emulation --disable-cpu-throttling --disable-network-throttling --perf 1 --output-path=web.vives.be_psy_overzicht3139_20170829.html
+```
 
 ### TARGET  
 
 * VerlofApp
 * stem4math.eu
 * webshop
+* [webshop login](https://web.vives.be/webshop/Account/Login?ReturnUrl=%2Fwebshop%2F)
 
 collect data on Responsive Performance: do not test your responsive designs only in the comfort of your own office, on your high-speed connection.
-
-++ for easy copy: cat readme.md
-? how to login, and avoid page redirection ! 
-+ run perf. only:
---perf 1  #   Use a performance-test-only configuration    [boolean]
 
 ## Hat tip
 
